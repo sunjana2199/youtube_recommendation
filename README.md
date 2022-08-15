@@ -40,4 +40,8 @@ classification problem. The videos with the top 10 highest scores are taken into
 and are suggested as recommendations to the user.
 
 
+![image](https://user-images.githubusercontent.com/25899745/184699344-24ac9010-6972-4129-ba49-7899e0441353.png)
+
+
+
 
