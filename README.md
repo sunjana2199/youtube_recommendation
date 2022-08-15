@@ -8,6 +8,8 @@ modeling technique that works on a principle similar to clustering on numerical 
 extremely useful in delineating hidden patterns in a collection of words. In this project, LDA has
 been used for recommending videos based on similarity with the given input video. The
 following steps have been followed while developing this model:
+
+
 Step 1- Creating a new dataframe
 The original dataframe (without duplicates) is re-constructed by dropping all the remaining
 columns except for ‘title’, ‘channel_title’, ‘tags’ and ‘description’ columns.
